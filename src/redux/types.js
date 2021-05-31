@@ -1,0 +1,13 @@
+export const GET_USERS = 'USERS/GET_USERS'
+export const SORT_USERS = 'USERS/SORT_USERS'
+export const DISPLAY_USER= 'USERS/DISPLAY_USER'
+export const LOADER = 'APP/LOADER'
+export const SELECT_MODE = 'APP/SELECT_MODE'
+export const PAGITATION_USERS = 'USERS/PAGITATION_USERS'
+export const ADD_USER = 'USERS/ADD_USER'
+
+
+
+
+
+
